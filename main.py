@@ -5,4 +5,4 @@ from crawler import Crawler
 
 
 crawler = Crawler()
-crawler.crawl("https://www.myntra.com/")
+crawler.crawl("https://www.myntra.com/men-tshirts")
