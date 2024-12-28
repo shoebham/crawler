@@ -22,7 +22,25 @@ class Patterns:
                     r"/account",
                     r"/search"
                 }
-            }
+            },
+            "ajio.com":{ 
+                "product_patterns":
+                {
+                    r"/[^/]+/p/\d+[^/]*$"
+                    
+                },
+                "exclude_patterns":
+                {
+                    r"/shop/",
+                    r"/wishlist",
+                    r"/cart",
+                    r"/login",
+                    r"/profile",
+                    r"/checkout",
+                    r"/account",
+                    r"/search"
+                }
+            } 
 
         }  
     def get_patterns(self,url):
