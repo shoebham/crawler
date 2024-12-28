@@ -24,7 +24,21 @@ class Patterns:
                 }
             }
 
-        }    
+        }  
     def get_patterns(self,url):
         domain = urlparse(url).netloc.replace('www.', '')
-        return self.url_patterns[domain]
+        default_pattern = {
+            "product_patterns": [
+                r"/product/",
+                r"/p/",
+                r"/item/",
+                r"/buy"
+            ],
+            "exclude_patterns": [
+                r"/cart",
+                r"/wishlist",
+                r"/login",
+                r"/account"
+            ]
+        }
+        return self.url_patterns.get(domain,default_pattern)
