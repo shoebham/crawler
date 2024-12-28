@@ -147,3 +147,95 @@ https://www.myntra.com/swimwear/berrylush/berrylush-women-classic-white-self-des
 https://www.myntra.com/tshirts/roadster/roadster-men-black-cotton-pure-cotton-t-shirt/1996777/buy
 
 ==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:37:43
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 0
+Total URLs visited: 0
+
+Latest Product URLs Found:
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:39:42
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 72
+Total URLs visited: 3179
+
+Latest Product URLs Found:
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.flipkart.com/samsung-galaxy-s24-5g-amber-yellow-256-gb/p/itmebc700bb8d159?otracker=undefined_footer
+https://www.flipkart.com/infinix-note-40-pro-5g-vintage-green-256-gb/p/itma7197f5eb7e85?otracker=undefined_footer
+https://www.flipkart.com/oppo-reno-12-5g-astro-silver-256-gb/p/itmaa6baddef2662?otracker=undefined_footer
+https://www.flipkart.com/poco-c65-matte-black-128-gb/p/itm8ea3d87aa6c0c?otracker=undefined_footer
+https://www.flipkart.com/vivo-v30-5g-peacock-green-256-gb/p/itme3a94b78a025f?otracker=undefined_footer
+https://www.flipkart.com/realme-10-pro-5g-dark-matter-128-gb/p/itm1e672d12a252e?otracker=undefined_footer
+https://www.flipkart.com/apple-iphone-12-pro-graphite-512-gb/p/itmdf0ffb4f2150f?otracker=undefined_footer
+https://www.flipkart.com/apple-iphone-16-pro-white-titanium-128-gb/p/itm50f720fdcec51?otracker=undefined_footer
+https://www.flipkart.com/redmi-note-12-pro-5g-onyx-black-128-gb/p/itmbc9fd7adaa32a?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:41:43
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 72
+Total URLs visited: 8650
+
+Latest Product URLs Found:
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.flipkart.com/samsung-galaxy-s24-5g-amber-yellow-256-gb/p/itmebc700bb8d159?otracker=undefined_footer
+https://www.flipkart.com/infinix-note-40-pro-5g-vintage-green-256-gb/p/itma7197f5eb7e85?otracker=undefined_footer
+https://www.flipkart.com/oppo-reno-12-5g-astro-silver-256-gb/p/itmaa6baddef2662?otracker=undefined_footer
+https://www.flipkart.com/poco-c65-matte-black-128-gb/p/itm8ea3d87aa6c0c?otracker=undefined_footer
+https://www.flipkart.com/vivo-v30-5g-peacock-green-256-gb/p/itme3a94b78a025f?otracker=undefined_footer
+https://www.flipkart.com/realme-10-pro-5g-dark-matter-128-gb/p/itm1e672d12a252e?otracker=undefined_footer
+https://www.flipkart.com/apple-iphone-12-pro-graphite-512-gb/p/itmdf0ffb4f2150f?otracker=undefined_footer
+https://www.flipkart.com/apple-iphone-16-pro-white-titanium-128-gb/p/itm50f720fdcec51?otracker=undefined_footer
+https://www.flipkart.com/redmi-note-12-pro-5g-onyx-black-128-gb/p/itmbc9fd7adaa32a?otracker=undefined_footer
+
+==================================================
