@@ -1,0 +1,149 @@
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:25:38
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 0
+Total URLs visited: 0
+
+Latest Product URLs Found:
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:25:47
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 0
+Total URLs visited: 0
+
+Latest Product URLs Found:
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:27:47
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 9
+Total URLs visited: 2950
+
+Latest Product URLs Found:
+https://www.shopclues.com/buyer-protection.html
+https://www.snapdeal.com/product/bentag-vegetable-fruit-clever-cutter/646347118114
+https://www.snapdeal.com/product/shiv-shakti-kavach-5-mukhi/669437838717
+https://www.snapdeal.com/product/veirdo-multi-round-tshirt/679677667475
+https://www.snapdeal.com/product/stay-healthy-silicone-heel-protector/682622706581
+https://www.snapdeal.com/product/battlestar-tummy-trimmer-double-string/681974799800
+https://www.snapdeal.com/product/aadi-black-casual-shoes/638773718836
+https://www.snapdeal.com/product/bhawna-collection-loard-shiv-trishul/672311651336
+https://www.snapdeal.com/product/india-100-envisioning-tomorrows-economic/635947174556
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:29:47
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 163
+Total URLs visited: 5516
+
+Latest Product URLs Found:
+https://www.myntra.com/shirts/wrogn/wrogn-men-blue--grey-checked-casual-shirt/1758570/buy
+https://www.myntra.com/headphones/boat/boat-airdopes-white-163-m-with-asap-charge-in-the-ear-bluetooth-headset-/19597742/buy
+https://www.myntra.com/headphones/realme/realme-black--yellow-buds-wireless-2s-with-dual-device-switching--type-c-fast-charge-bluetooth-headset--in-the-ear/19199370/buy
+https://www.flipkart.com/realme-10-pro-5g-dark-matter-128-gb/p/itm1e672d12a252e?otracker=undefined_footer
+https://www.flipkart.com/redmi-note-14-pro-5g-spectre-blue-128-gb/p/itm7fa24a152cbc9?otracker=undefined_footer
+https://www.flipkart.com/apple-iphone-12-pro-graphite-512-gb/p/itmdf0ffb4f2150f?otracker=undefined_footer
+https://www.flipkart.com/realme-c53-champion-gold-128-gb/p/itm5df90168ecd05?otracker=undefined_footer
+https://www.flipkart.com/vivo-x100-asteroid-black-256-gb/p/itm60fe0113c39cb?otracker=undefined_footer
+https://www.myntra.com/tshirts/roadster/roadster-men-black-cotton-pure-cotton-t-shirt/1996777/buy
+https://www.myntra.com/sweatshirts/styli/styli-men-white-printed-pure-cotton-sweatshirt/20740842/buy
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:31:47
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 367
+Total URLs visited: 8490
+
+Latest Product URLs Found:
+https://www.myntra.com/backpacks/wildcraft/wildcraft-unisex-lunar-backpack/12361350/buy
+https://www.flipkart.com/infinix-inbook-y1-plus-intel-core-i3-10th-gen-8-gb-256-gb-ssd-windows-11-home-xl28-thin-light-laptop/p/itm6c066be25ddde?otracker=undefined_footer
+https://www.myntra.com/blankets-quilts-and-dohars/jaipur-fabric/jaipur-fabric-black--grey-microfiber-heavy-winter-250-gsm-single-bed-comforter/16267700/buy
+https://www.myntra.com/foundation-and-primer/swiss-beauty/swiss-beauty-shiny-pearl-water-drop-spf-15-blemish-balm-foundation-40-ml---shade-06/20260100/buy
+https://www.flipkart.com/redmi-note-14-pro-5g-spectre-blue-128-gb/p/itm7fa24a152cbc9?otracker=undefined_footer
+https://www.flipkart.com/apple-iphone-12-pro-graphite-512-gb/p/itmdf0ffb4f2150f?otracker=undefined_footer
+https://www.myntra.com/body-lotion/ponds/ponds-triple-vitamin-moisturising-body-lotion-600-ml/15506106/buy
+https://www.myntra.com/face-wash-and-cleanser/cetaphil/cetaphil-gentle-skin-cleanser-with-vitamin-b3--glycerin---250ml/16712616/buy
+https://www.myntra.com/swimwear/berrylush/berrylush-women-classic-white-self-design-cover-up/19142348/buy
+https://www.myntra.com/tshirts/roadster/roadster-men-black-cotton-pure-cotton-t-shirt/1996777/buy
+
+==================================================
