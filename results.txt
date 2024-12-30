@@ -239,3 +239,2602 @@ https://www.flipkart.com/apple-iphone-16-pro-white-titanium-128-gb/p/itm50f720fd
 https://www.flipkart.com/redmi-note-12-pro-5g-onyx-black-128-gb/p/itmbc9fd7adaa32a?otracker=undefined_footer
 
 ==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:43:43
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 232
+Total URLs visited: 10440
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:45:43
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 232
+Total URLs visited: 10774
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:47:43
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 232
+Total URLs visited: 10986
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:49:43
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 234
+Total URLs visited: 11897
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:51:43
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 235
+Total URLs visited: 12899
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:53:43
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 235
+Total URLs visited: 14134
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:55:43
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 235
+Total URLs visited: 15512
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:57:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 235
+Total URLs visited: 15876
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 16:59:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 236
+Total URLs visited: 16129
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:01:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 236
+Total URLs visited: 16216
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:03:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 236
+Total URLs visited: 16594
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:05:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 236
+Total URLs visited: 16615
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:07:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 236
+Total URLs visited: 16743
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:09:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 236
+Total URLs visited: 17462
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:11:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 250
+Total URLs visited: 18426
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:13:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 250
+Total URLs visited: 19250
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:15:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 250
+Total URLs visited: 20521
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:17:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 250
+Total URLs visited: 21551
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:19:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 250
+Total URLs visited: 22517
+
+Latest Product URLs Found:
+https://www.nykaa.com/cetaphil-cleansing-lotion/p/22032?productId=22032&pps=2
+https://www.flipkart.com/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?otracker=undefined_footer
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-bridal-lip-kit-fair/p/17264639?productId=17264639&pps=10
+https://www.nykaa.com/nykaa-matte-luxe-lipstick/p/746089?productId=746089&pps=10
+https://www.nykaa.com/lakme-rouge-bloom-eyeshadow-pro-palette/p/17067517?productId=17067517&pps=18
+https://www.nykaa.com/nykaa-breathable-nail-enamel/p/1010834?productId=1010834&pps=19
+https://www.nykaa.com/l-oreal-paris-revitalift-1-5-hyaluronic-acid-serum/p/1112060?productId=1112060&pps=3
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+https://www.nykaa.com/vaseline-intensive-care-deep-restore-body-lotion/p/535502?productId=535502&pps=4
+https://www.nykaa.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream/p/1378036?productId=1378036&pps=4
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:21:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 310
+Total URLs visited: 23956
+
+Latest Product URLs Found:
+https://www.nykaa.com/charlotte-tilbury-pillow-talk-iconic-mini-lip-kit-xmas-2024/p/16741984?productId=16741984&pps=5
+https://www.nykaa.com/nykaa-cosmetics-superlight-volumizing-peptide-mascara/p/15654122?productId=15654122&pps=11
+https://www.nykaa.com/charlotte-tilbury-mini-magic-cream-xmas-2024/p/16695207?productId=16695207&pps=8
+https://www.shopclues.com/buylink-10w-emergency-light-60-hi-bright-en-91-orange-pack-of-1-150801591.html
+https://www.snapdeal.com/product/sparx-sm-323-white-mens/646124471754
+https://www.nykaa.com/maybelline-new-york-superstay-vinyl-ink-liquid-lipstick/p/7066987?productId=7066987&pps=14
+https://www.nykaa.com/vaseline-healthy-white-lightening-body-lotion/p/234145?productId=234145&pps=10
+https://www.snapdeal.com/product/avant-softride-white-mens-sports/638780833046
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:23:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 595
+Total URLs visited: 26032
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.snapdeal.com/product/sparx-sm-323-white-mens/646124471754
+https://www.nykaa.com/maybelline-new-york-superstay-vinyl-ink-liquid-lipstick/p/7066987?productId=7066987&pps=14
+https://www.nykaa.com/vaseline-healthy-white-lightening-body-lotion/p/234145?productId=234145&pps=10
+https://www.snapdeal.com/product/avant-softride-white-mens-sports/638780833046
+https://www.snapdeal.com/product/yuuki-grey-polyester-sweatshirt/685060128542
+https://www.snapdeal.com/product/dollar-bigboss-multi-trunk-pack/658977719208
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:25:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 595
+Total URLs visited: 32970
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.snapdeal.com/product/sparx-sm-323-white-mens/646124471754
+https://www.nykaa.com/maybelline-new-york-superstay-vinyl-ink-liquid-lipstick/p/7066987?productId=7066987&pps=14
+https://www.nykaa.com/vaseline-healthy-white-lightening-body-lotion/p/234145?productId=234145&pps=10
+https://www.snapdeal.com/product/avant-softride-white-mens-sports/638780833046
+https://www.snapdeal.com/product/yuuki-grey-polyester-sweatshirt/685060128542
+https://www.snapdeal.com/product/dollar-bigboss-multi-trunk-pack/658977719208
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:27:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 595
+Total URLs visited: 40221
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.snapdeal.com/product/sparx-sm-323-white-mens/646124471754
+https://www.nykaa.com/maybelline-new-york-superstay-vinyl-ink-liquid-lipstick/p/7066987?productId=7066987&pps=14
+https://www.nykaa.com/vaseline-healthy-white-lightening-body-lotion/p/234145?productId=234145&pps=10
+https://www.snapdeal.com/product/avant-softride-white-mens-sports/638780833046
+https://www.snapdeal.com/product/yuuki-grey-polyester-sweatshirt/685060128542
+https://www.snapdeal.com/product/dollar-bigboss-multi-trunk-pack/658977719208
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:29:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 595
+Total URLs visited: 50418
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.snapdeal.com/product/sparx-sm-323-white-mens/646124471754
+https://www.nykaa.com/maybelline-new-york-superstay-vinyl-ink-liquid-lipstick/p/7066987?productId=7066987&pps=14
+https://www.nykaa.com/vaseline-healthy-white-lightening-body-lotion/p/234145?productId=234145&pps=10
+https://www.snapdeal.com/product/avant-softride-white-mens-sports/638780833046
+https://www.snapdeal.com/product/yuuki-grey-polyester-sweatshirt/685060128542
+https://www.snapdeal.com/product/dollar-bigboss-multi-trunk-pack/658977719208
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:31:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 595
+Total URLs visited: 63093
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.snapdeal.com/product/sparx-sm-323-white-mens/646124471754
+https://www.nykaa.com/maybelline-new-york-superstay-vinyl-ink-liquid-lipstick/p/7066987?productId=7066987&pps=14
+https://www.nykaa.com/vaseline-healthy-white-lightening-body-lotion/p/234145?productId=234145&pps=10
+https://www.snapdeal.com/product/avant-softride-white-mens-sports/638780833046
+https://www.snapdeal.com/product/yuuki-grey-polyester-sweatshirt/685060128542
+https://www.snapdeal.com/product/dollar-bigboss-multi-trunk-pack/658977719208
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:33:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 595
+Total URLs visited: 69447
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.snapdeal.com/product/sparx-sm-323-white-mens/646124471754
+https://www.nykaa.com/maybelline-new-york-superstay-vinyl-ink-liquid-lipstick/p/7066987?productId=7066987&pps=14
+https://www.nykaa.com/vaseline-healthy-white-lightening-body-lotion/p/234145?productId=234145&pps=10
+https://www.snapdeal.com/product/avant-softride-white-mens-sports/638780833046
+https://www.snapdeal.com/product/yuuki-grey-polyester-sweatshirt/685060128542
+https://www.snapdeal.com/product/dollar-bigboss-multi-trunk-pack/658977719208
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:35:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 595
+Total URLs visited: 69597
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.snapdeal.com/product/sparx-sm-323-white-mens/646124471754
+https://www.nykaa.com/maybelline-new-york-superstay-vinyl-ink-liquid-lipstick/p/7066987?productId=7066987&pps=14
+https://www.nykaa.com/vaseline-healthy-white-lightening-body-lotion/p/234145?productId=234145&pps=10
+https://www.snapdeal.com/product/avant-softride-white-mens-sports/638780833046
+https://www.snapdeal.com/product/yuuki-grey-polyester-sweatshirt/685060128542
+https://www.snapdeal.com/product/dollar-bigboss-multi-trunk-pack/658977719208
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:37:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 595
+Total URLs visited: 69637
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.snapdeal.com/product/sparx-sm-323-white-mens/646124471754
+https://www.nykaa.com/maybelline-new-york-superstay-vinyl-ink-liquid-lipstick/p/7066987?productId=7066987&pps=14
+https://www.nykaa.com/vaseline-healthy-white-lightening-body-lotion/p/234145?productId=234145&pps=10
+https://www.snapdeal.com/product/avant-softride-white-mens-sports/638780833046
+https://www.snapdeal.com/product/yuuki-grey-polyester-sweatshirt/685060128542
+https://www.snapdeal.com/product/dollar-bigboss-multi-trunk-pack/658977719208
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:39:44
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 628
+Total URLs visited: 70082
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/the-indian-garage-co-100/635116353036
+https://www.nykaa.com/vaseline-healthy-white-lightening-body-lotion/p/234145?productId=234145&pps=10
+https://www.snapdeal.com/product/avant-softride-white-mens-sports/638780833046
+https://www.snapdeal.com/product/yuuki-grey-polyester-sweatshirt/685060128542
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.snapdeal.com/product/dollar-bigboss-multi-trunk-pack/658977719208
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/hj-hasasi-100-cotton-slim/685475942404
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:41:45
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1009
+Total URLs visited: 71928
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.snapdeal.com/product/vida-loca-linen-dark-orange/8358681527872763594
+https://www.snapdeal.com/product/ivoc-grey-100-cotton-regular/663261323807
+https://www.snapdeal.com/product/gazal-fashions-blackwhite-net-saree/678625910199
+https://www.snapdeal.com/product/yash-gallery-rayon-black-a/683920152763
+https://www.snapdeal.com/product/kedar-fab-pink-anarkali-georgette/665613717197
+https://www.snapdeal.com/product/ruggers-red-casual-jacket/623676502150
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+https://www.snapdeal.com/product/hj-hasasi-100-cotton-slim/685475942404
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:43:45
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1110
+Total URLs visited: 77435
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.snapdeal.com/product/vida-loca-linen-dark-orange/8358681527872763594
+https://www.snapdeal.com/product/ivoc-grey-100-cotton-regular/663261323807
+https://www.snapdeal.com/product/gazal-fashions-blackwhite-net-saree/678625910199
+https://www.snapdeal.com/product/yash-gallery-rayon-black-a/683920152763
+https://www.snapdeal.com/product/kedar-fab-pink-anarkali-georgette/665613717197
+https://www.snapdeal.com/product/ruggers-red-casual-jacket/623676502150
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+https://www.snapdeal.com/product/hj-hasasi-100-cotton-slim/685475942404
+https://www.nykaa.com/kerastase-specifique-divalent-shampoo-for-oily-scalp-dry-ends/p/17272475?productId=17272475&pps=16
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:45:45
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1319
+Total URLs visited: 80071
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/scrott-cotton-skorts-multi-color/623714794069
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:47:45
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1374
+Total URLs visited: 81691
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/scrott-cotton-skorts-multi-color/623714794069
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:49:45
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1399
+Total URLs visited: 84804
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:51:45
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1419
+Total URLs visited: 86738
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:53:45
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1446
+Total URLs visited: 89015
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:55:45
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1458
+Total URLs visited: 90889
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:57:45
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1458
+Total URLs visited: 92348
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 17:59:45
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1458
+Total URLs visited: 93661
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 18:01:45
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1458
+Total URLs visited: 95023
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 18:04:15
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1463
+Total URLs visited: 96343
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 21:29:09
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1467
+Total URLs visited: 96403
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:04:26
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1467
+Total URLs visited: 96403
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:06:26
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1467
+Total URLs visited: 96403
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:08:26
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1467
+Total URLs visited: 96403
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:10:26
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1467
+Total URLs visited: 96403
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:12:26
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1467
+Total URLs visited: 96403
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:14:26
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1467
+Total URLs visited: 96403
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:16:26
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1467
+Total URLs visited: 96403
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:18:26
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1467
+Total URLs visited: 96403
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:20:26
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+- https://www.ajio.com
+- https://www.flipkart.com
+- https://www.amazon.in
+- https://www.nykaa.com
+- https://www.snapdeal.com
+- https://www.tatacliq.com
+- https://www.shopclues.com
+- https://www.firstcry.com
+- https://www.meesho.com
+
+Current Progress:
+Total products found: 1467
+Total URLs visited: 96403
+
+Latest Product URLs Found:
+https://www.snapdeal.com/product/campus-vibgyor-blue-running-shoes/6917529695537666237
+https://www.snapdeal.com/product/3pin-olive-sweatshirt/646876087734
+https://www.amazon.in/gp/product/B017SJFS34?rw_useCurrentProtocol=1&ref_=gc_bb_nabegcMMT
+https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+https://www.snapdeal.com/product/the-indian-garage-co-100/640911850809
+https://www.nykaa.com/kerastase-densifique-mask-for-thinning-hair-with-hyaluronic-acid-ceramides/p/17272463?productId=17272463&pps=18
+https://www.snapdeal.com/product/dollar-bigboss-multicolor-cotton-boxers/346210711
+https://www.snapdeal.com/product/aarti-selection-pink-cotton-saree-/8646911966718893710
+https://www.myntra.com/bedsheets/ddecor/ddecor-grey--blue-printed-144-tc-fitted-king-bedsheet-with-2-pillow-covers/13462342/buy
+https://www.snapdeal.com/product/brothers-deal-blue-crepe-straight/8070451183385752811
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:38:25
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 0
+Total URLs visited: 0
+
+Latest Product URLs Found:
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:40:25
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 37
+Total URLs visited: 967
+
+Latest Product URLs Found:
+https://www.myntra.com/jeans/kotty/kotty-women-black-jean-straight-fit-high-rise-stretchable-jeans/19259884/buy
+https://www.myntra.com/tshirts/roadster/roadster-men-olive-green--cream-coloured-striped-polo-collar-t-shirt/6797776/buy
+https://www.myntra.com/sherwani/benstoke/-benstoke-men-brown--blue-printed-sherwani-set/18711412/buy
+https://www.myntra.com/tshirts/roadster/roadster-men-black-cotton-pure-cotton-t-shirt/1996777/buy
+https://www.myntra.com/tshirts/louis-philippe-jeans/louis-philippe-jeans-men-black-graphic-printed-pure-cotton-slim-fit-casual-t-shirt/16878774/buy
+https://www.myntra.com/sherwani/manyavar/manyavar-men-beige-floral-embroidered-sherwani-and-churidar-set/15227312/buy
+https://www.myntra.com/jackets/hubberholme/hubberholme-men-black-solid-denim-jacket/12834804/buy
+https://www.myntra.com/sweatshirts/bossini/bossini-men-blue--white-striped-cotton-pullover-sweatshirt/20470648/buy
+https://www.myntra.com/tshirts/roadster/roadster-men-white--pure-cotton-t-shirt/2275365/buy
+https://www.myntra.com/jackets/high-star/high-star-men-black-solid-denim-jacket/11275832/buy
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:42:25
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 91
+Total URLs visited: 1662
+
+Latest Product URLs Found:
+https://www.myntra.com/jackets/herenow/herenow-men-black-typography-embossed-print-distressed-denim-jacket/14275344/buy
+https://www.myntra.com/jeans/tokyo-talkies/tokyo-talkies-women-white-flared-high-rise-clean-look-jeans/13689970/buy
+https://www.myntra.com/jeans/kotty/kotty-women-black-jean-straight-fit-high-rise-stretchable-jeans/19259884/buy
+https://www.myntra.com/trimmer/nova/nova-men-nht-1073-usb-cordless-trimmer---black--blue/9548055/buy
+https://www.myntra.com/tshirts/roadster/roadster-men-olive-green--cream-coloured-striped-polo-collar-t-shirt/6797776/buy
+https://www.myntra.com/trolley-bag/american-tourister/american-tourister-grey-textured-hard-sided-cabin-trolley-suitcase/13182822/buy
+https://www.myntra.com/trolley-bag/safari/safari-blue--yellow-printed-cabin-sized-trolley-bag/18552116/buy
+https://www.myntra.com/smart-watches/fossil/fossil-garrett-hr-black-smartwatch-ftw4038/15284120/buy
+https://www.myntra.com/sweatshirts/bossini/bossini-men-blue--white-striped-cotton-pullover-sweatshirt/20470648/buy
+https://www.myntra.com/tshirts/roadster/roadster-men-white--pure-cotton-t-shirt/2275365/buy
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:44:25
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 122
+Total URLs visited: 2407
+
+Latest Product URLs Found:
+https://www.myntra.com/jeans/kotty/kotty-women-black-jean-straight-fit-high-rise-stretchable-jeans/19259884/buy
+https://www.myntra.com/trimmer/nova/nova-men-nht-1073-usb-cordless-trimmer---black--blue/9548055/buy
+https://www.myntra.com/tshirts/roadster/roadster-men-olive-green--cream-coloured-striped-polo-collar-t-shirt/6797776/buy
+https://www.myntra.com/trolley-bag/american-tourister/american-tourister-grey-textured-hard-sided-cabin-trolley-suitcase/13182822/buy
+https://www.myntra.com/trolley-bag/safari/safari-blue--yellow-printed-cabin-sized-trolley-bag/18552116/buy
+https://www.myntra.com/smart-watches/fossil/fossil-garrett-hr-black-smartwatch-ftw4038/15284120/buy
+https://www.myntra.com/bedsheets/ddecor/ddecor-white--pink-floral-140-tc-cotton-queen-bedsheet-with-2-pillow-covers/20543990/buy
+https://www.myntra.com/sweatshirts/bossini/bossini-men-blue--white-striped-cotton-pullover-sweatshirt/20470648/buy
+https://www.myntra.com/tshirts/roadster/roadster-men-white--pure-cotton-t-shirt/2275365/buy
+https://www.myntra.com/bedsheets/spaces/spaces-grey--beige-floral-144-tc-cotton-1-queen-bedsheet-with-2-pillow-covers/9251759/buy
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:46:25
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 237
+Total URLs visited: 3226
+
+Latest Product URLs Found:
+https://www.myntra.com/hair-oil/soulflower/soulflower-transparent-onion-hair-oil--beard--moustache-oil-340-ml/13407940/buy
+https://www.myntra.com/smart-watches/fossil/fossil-garrett-hr-black-smartwatch-ftw4038/15284120/buy
+https://www.myntra.com/bedsheets/ddecor/ddecor-white--pink-floral-140-tc-cotton-queen-bedsheet-with-2-pillow-covers/20543990/buy
+https://www.myntra.com/clocks/zanibo/zanibo-white-floral-solid-analogue-wall-clock/11197190/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/sweatshirts/bossini/bossini-men-blue--white-striped-cotton-pullover-sweatshirt/20470648/buy
+https://www.myntra.com/tshirts/roadster/roadster-men-white--pure-cotton-t-shirt/2275365/buy
+https://www.myntra.com/bedsheets/spaces/spaces-grey--beige-floral-144-tc-cotton-1-queen-bedsheet-with-2-pillow-covers/9251759/buy
+https://www.myntra.com/clocks/exim-decor/exim-decor-copper-toned-round-textured-analogue-wall-clock/13933724/buy
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:48:25
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 237
+Total URLs visited: 4017
+
+Latest Product URLs Found:
+https://www.myntra.com/hair-oil/soulflower/soulflower-transparent-onion-hair-oil--beard--moustache-oil-340-ml/13407940/buy
+https://www.myntra.com/smart-watches/fossil/fossil-garrett-hr-black-smartwatch-ftw4038/15284120/buy
+https://www.myntra.com/bedsheets/ddecor/ddecor-white--pink-floral-140-tc-cotton-queen-bedsheet-with-2-pillow-covers/20543990/buy
+https://www.myntra.com/clocks/zanibo/zanibo-white-floral-solid-analogue-wall-clock/11197190/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/sweatshirts/bossini/bossini-men-blue--white-striped-cotton-pullover-sweatshirt/20470648/buy
+https://www.myntra.com/tshirts/roadster/roadster-men-white--pure-cotton-t-shirt/2275365/buy
+https://www.myntra.com/bedsheets/spaces/spaces-grey--beige-floral-144-tc-cotton-1-queen-bedsheet-with-2-pillow-covers/9251759/buy
+https://www.myntra.com/clocks/exim-decor/exim-decor-copper-toned-round-textured-analogue-wall-clock/13933724/buy
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:50:25
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 356
+Total URLs visited: 4695
+
+Latest Product URLs Found:
+https://www.myntra.com/face-wash-and-cleanser/plum/plum-green-tea-range-pore-cleansing-sustainable-face-wash-oily-or-acne-prone-skin---75-ml/2175584/buy
+https://www.myntra.com/tshirts/roadster/roadster-men-olive-green--cream-coloured-striped-polo-collar-t-shirt/6797776/buy
+https://www.myntra.com/mascara/colorbar/colorbar-lengthening-lash-illusion-mascara-duo-4-ml---black/55956/buy
+https://www.myntra.com/smart-watches/fossil/fossil-garrett-hr-black-smartwatch-ftw4038/15284120/buy
+https://www.myntra.com/clocks/zanibo/zanibo-white-floral-solid-analogue-wall-clock/11197190/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:54:57
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 408
+Total URLs visited: 5514
+
+Latest Product URLs Found:
+https://www.myntra.com/mascara/colorbar/colorbar-lengthening-lash-illusion-mascara-duo-4-ml---black/55956/buy
+https://www.myntra.com/smart-watches/fossil/fossil-garrett-hr-black-smartwatch-ftw4038/15284120/buy
+https://www.myntra.com/clocks/zanibo/zanibo-white-floral-solid-analogue-wall-clock/11197190/buy
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:56:57
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 482
+Total URLs visited: 6349
+
+Latest Product URLs Found:
+https://www.myntra.com/mascara/colorbar/colorbar-lengthening-lash-illusion-mascara-duo-4-ml---black/55956/buy
+https://www.myntra.com/smart-watches/fossil/fossil-garrett-hr-black-smartwatch-ftw4038/15284120/buy
+https://www.myntra.com/clocks/zanibo/zanibo-white-floral-solid-analogue-wall-clock/11197190/buy
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 22:58:57
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 594
+Total URLs visited: 7151
+
+Latest Product URLs Found:
+https://www.myntra.com/mascara/colorbar/colorbar-lengthening-lash-illusion-mascara-duo-4-ml---black/55956/buy
+https://www.myntra.com/smart-watches/fossil/fossil-garrett-hr-black-smartwatch-ftw4038/15284120/buy
+https://www.myntra.com/clocks/zanibo/zanibo-white-floral-solid-analogue-wall-clock/11197190/buy
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:00:57
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 695
+Total URLs visited: 7975
+
+Latest Product URLs Found:
+https://www.myntra.com/sports-shoes/sparx/sparx-men-mesh-running-shoes/24371444/buy
+https://www.myntra.com/smart-watches/fossil/fossil-garrett-hr-black-smartwatch-ftw4038/15284120/buy
+https://www.myntra.com/clocks/zanibo/zanibo-white-floral-solid-analogue-wall-clock/11197190/buy
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:02:57
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 803
+Total URLs visited: 9014
+
+Latest Product URLs Found:
+https://www.myntra.com/smart-watches/fossil/fossil-garrett-hr-black-smartwatch-ftw4038/15284120/buy
+https://www.myntra.com/trolley-bag/samsonite/samsonite-myton-spinner-trolley-bag/22552330/buy
+https://www.myntra.com/clocks/zanibo/zanibo-white-floral-solid-analogue-wall-clock/11197190/buy
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:04:57
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 877
+Total URLs visited: 10015
+
+Latest Product URLs Found:
+https://www.myntra.com/smart-watches/fossil/fossil-garrett-hr-black-smartwatch-ftw4038/15284120/buy
+https://www.myntra.com/trolley-bag/samsonite/samsonite-myton-spinner-trolley-bag/22552330/buy
+https://www.myntra.com/clocks/zanibo/zanibo-white-floral-solid-analogue-wall-clock/11197190/buy
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:06:57
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 963
+Total URLs visited: 10813
+
+Latest Product URLs Found:
+https://www.myntra.com/clocks/zanibo/zanibo-white-floral-solid-analogue-wall-clock/11197190/buy
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:08:57
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1108
+Total URLs visited: 11871
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:10:57
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1137
+Total URLs visited: 12767
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:12:57
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1137
+Total URLs visited: 13069
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:14:58
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 13655
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:16:58
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 14184
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:18:58
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 14605
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:20:58
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 15277
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:22:58
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 16644
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:28:18
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 18226
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:30:18
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 18226
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:32:18
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 18226
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:34:18
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 18226
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:36:18
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 18226
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:38:18
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 18226
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:40:18
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 18226
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:42:18
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 18226
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:44:18
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 18226
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:46:18
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 18226
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:48:18
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 18226
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-28 23:50:18
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 18226
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2024-12-29 03:26:24
+==================================================
+
+Domains being crawled:
+- https://www.myntra.com
+
+Current Progress:
+Total products found: 1141
+Total URLs visited: 18226
+
+Latest Product URLs Found:
+https://www.myntra.com/caps/hm/hm-men-blue-cap-with-an-applique/20179160/buy
+https://www.myntra.com/watches/fastrack/fastrack-women-grey-analogue-watch/14405082/buy
+https://www.myntra.com/anklet/giva/giva-925-sterling-silver-layered-rose-gold-queens-anklet/15455114/buy
+https://www.myntra.com/shirts/us-polo-assn/u-s-polo-assn-men-solid-tailored-fit-pure-cotton-casual-shirt/19167142/buy
+https://www.myntra.com/foundation-and-primer/flicka/flicka-off-white-tomato-foundation-with-spf/20501870/buy
+https://www.myntra.com/earrings/oomph/oomph-silver-toned--red-floral-set-of-3-jhumkas-earrings/20501028/buy
+https://www.myntra.com/shirts/wrangler/wrangler-men-slim-fit-tartan-checks-checked-casual-cotton-shirt/21750614/buy
+https://www.myntra.com/wall-art/ecraftindia/ecraftindia-multicolor-krishna-radha-original-design-canvas-printed-wall-painting/17464012/buy
+https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
+
+==================================================

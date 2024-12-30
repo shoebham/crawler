@@ -53,15 +53,6 @@ crawler = Crawler()
 # List of URLs to crawl
 urls = [
     "https://www.myntra.com",
-    "https://www.ajio.com",
-    "https://www.flipkart.com",
-    "https://www.amazon.in",
-    "https://www.nykaa.com",
-    "https://www.snapdeal.com",
-    "https://www.tatacliq.com",
-    "https://www.shopclues.com",
-    "https://www.firstcry.com",
-    "https://www.meesho.com"
 ]
 
 # Create an event to signal the summary thread to stop
