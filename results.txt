@@ -2838,3 +2838,197 @@ https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-ma
 https://www.flipkart.com/samsung-galaxy-book3-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-thin-light-laptop/p/itmf5efb3b1c35fa?otracker=undefined_footer
 
 ==================================================
+
+==================================================
+Crawl Progress Update - 2025-04-02 09:19:34
+==================================================
+
+Domains being crawled:
+- https://www.virgio.com/
+- https://www.tatacliq.com/
+- https://nykaafashion.com/
+- https://www.westside.com/
+
+Current Progress:
+Total products found: 0
+Total URLs visited: 0
+
+Latest Product URLs Found:
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2025-04-05 12:43:05
+==================================================
+
+Domains being crawled:
+- https://www.virgio.com/
+- https://www.tatacliq.com/
+- https://nykaafashion.com/
+- https://www.westside.com/
+
+Current Progress:
+Total products found: 0
+Total URLs visited: 0
+
+Latest Product URLs Found:
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2025-04-05 12:47:35
+==================================================
+
+Domains being crawled:
+- https://westside.com
+
+Current Progress:
+Total products found: 0
+Total URLs visited: 0
+
+Latest Product URLs Found:
+
+==================================================
+
+==================================================
+Crawl Progress Update - 2025-04-05 12:48:02
+==================================================
+
+Domains being crawled:
+- https://westside.com
+
+Current Progress:
+Total products found: 0
+Total URLs visited: 0
+
+Latest Product URLs Found:
+
+==================================================
+
+==================================================
+Crawl Summary - 2025-04-05 12:53:18
+==================================================
+
+Domains Crawled:
+- https://www.virgio.com/
+- https://www.tatacliq.com/
+- https://nykaafashion.com/
+- https://www.westside.com/
+
+Results:
+Total products found: 46
+Total URLs visited: 474
+
+Product URLs Found:
+https://www.westside.com/products/studiowest-sugar-and-vanilla-bean-eau-de-parfum-100ml-300995788001
+https://www.westside.com/products/studiowest-left-on-read-eau-de-parfum-30-ml-300991615001
+https://www.westside.com/products/studiowest-cucumber-bamboo-body-wash-300941969001
+https://www.westside.com/products/studiowest-shimmy-eau-de-parfum-30-ml-300991618001
+https://www.westside.com/products/studiowest-santal-and-iris-eau-de-parfum-100ml-300995785001
+https://www.westside.com/products/studiowest-butter-cream-eau-de-parfum-30-ml-300991604001
+https://www.westside.com/products/studiowest-swipe-right-eau-de-parfum-30-ml-300991622001
+https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+https://www.westside.com/products/studiowest-total-gossip-eau-de-parfum-30-ml-300991623001
+https://www.westside.com/products/studiowest-game-on-eau-de-parfum-30-ml-300991609001
+https://www.westside.com/products/studiowest-hazel-blurr-on-foundation-30-ml-301007531001
+https://www.westside.com/products/studiowest-get-a-fix-eau-de-parfum-30-ml-300991610001
+https://www.westside.com/products/studiowest-beige-quilted-round-makeup-pouch-301011505001
+https://www.westside.com/products/studiowest-cashmere-and-praline-eau-de-parfum-100ml-300995786001
+https://www.westside.com/products/studiowest-cabin-fever-eau-de-parfum-30-ml-300991605001
+https://www.westside.com/products/studiowest-deep-brown-to-the-point-brow-filler-09-ml-301009330001
+https://www.westside.com/products/studiowest-aqua-aromatic-parfum-100-ml-300948332001
+https://www.westside.com/products/studiowest-ripped-eau-de-parfum-30-ml-300991617001
+https://www.westside.com/products/studiowest-bite-a-little-eau-de-parfum-30-ml-300991602001
+https://www.westside.com/products/studiowest-leather-and-tonka-eau-de-parfum-100ml-300995784001
+https://www.westside.com/products/studiowest-blue-quilted-round-makeup-pouch-301011504001
+https://www.westside.com/products/studiowest-oceanic-amber-body-wash-300941966001
+https://www.westside.com/products/studiowest-new-city-bora-bora-shower-gel-180-ml-300978089001
+https://www.westside.com/products/studiowest-new-city-mykonos-shower-gel-180-ml-300978091001
+https://www.westside.com/products/studiowest-golden-hour-eau-de-parfum-30-ml-300991613001
+https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+https://www.westside.com/products/studiowest-spf-50-sunscreen-stick-7-8-gm-300980794001
+https://www.westside.com/products/studiowest-gold-glitz-glow-highlighter-45-gm-300975633001
+https://www.westside.com/products/studiowest-velvet-kiss-slim-stick-soft-whisper-mv-02-lipstick-2-gm-301007597001
+https://www.westside.com/products/studiowest-keep-it-on-eau-de-parfum-30-ml-300991614001
+https://www.virgio.com/products/date-chic-red-solid-co-ords
+https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+https://www.westside.com/products/studiowest-girls-night-eau-de-parfum-30-ml-300991612001
+https://www.westside.com/products/studiowest-coconut-water-body-wash-300941968001
+https://www.westside.com/products/studiowest-slay-eau-de-parfum-30-ml-300991619001
+https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+https://www.westside.com/products/studiowest-candle-light-eau-de-parfum-30-ml-300991606001
+https://www.westside.com/products/studiowest-no-filter-eau-de-parfum-30-ml-300991616001
+https://www.westside.com/products/studiowest-eyebrow-and-lash-serum-8-ml-300984083001
+https://www.westside.com/products/studiowest-so-high-eau-de-parfum-30-ml-300991620001
+https://www.westside.com/products/studiowest-pink-quilted-round-makeup-pouch-301011503001
+https://www.westside.com/products/studiowest-black-mini-volumizing-mascara-6-gm-300979896001
+https://www.westside.com/products/studiowest-daydream-eau-de-parfum-30-ml-300991608001
+https://www.westside.com/products/studiowest-whipped-eau-de-parfum-30-ml-300991624001
+https://www.westside.com/products/studiowest-one-night-in-ibiza-eau-de-parfum-25-ml-300943794001
+
+==================================================
+
+==================================================
+Crawl Summary - 2025-04-05 12:53:18
+==================================================
+
+Domains Crawled:
+- https://www.virgio.com/
+- https://www.tatacliq.com/
+- https://nykaafashion.com/
+- https://www.westside.com/
+
+Results:
+Total products found: 46
+Total URLs visited: 474
+
+Product URLs Found:
+https://www.westside.com/products/studiowest-sugar-and-vanilla-bean-eau-de-parfum-100ml-300995788001
+https://www.westside.com/products/studiowest-left-on-read-eau-de-parfum-30-ml-300991615001
+https://www.westside.com/products/studiowest-cucumber-bamboo-body-wash-300941969001
+https://www.westside.com/products/studiowest-shimmy-eau-de-parfum-30-ml-300991618001
+https://www.westside.com/products/studiowest-santal-and-iris-eau-de-parfum-100ml-300995785001
+https://www.westside.com/products/studiowest-butter-cream-eau-de-parfum-30-ml-300991604001
+https://www.westside.com/products/studiowest-swipe-right-eau-de-parfum-30-ml-300991622001
+https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+https://www.westside.com/products/studiowest-total-gossip-eau-de-parfum-30-ml-300991623001
+https://www.westside.com/products/studiowest-game-on-eau-de-parfum-30-ml-300991609001
+https://www.westside.com/products/studiowest-hazel-blurr-on-foundation-30-ml-301007531001
+https://www.westside.com/products/studiowest-get-a-fix-eau-de-parfum-30-ml-300991610001
+https://www.westside.com/products/studiowest-beige-quilted-round-makeup-pouch-301011505001
+https://www.westside.com/products/studiowest-cashmere-and-praline-eau-de-parfum-100ml-300995786001
+https://www.westside.com/products/studiowest-cabin-fever-eau-de-parfum-30-ml-300991605001
+https://www.westside.com/products/studiowest-deep-brown-to-the-point-brow-filler-09-ml-301009330001
+https://www.westside.com/products/studiowest-aqua-aromatic-parfum-100-ml-300948332001
+https://www.westside.com/products/studiowest-ripped-eau-de-parfum-30-ml-300991617001
+https://www.westside.com/products/studiowest-bite-a-little-eau-de-parfum-30-ml-300991602001
+https://www.westside.com/products/studiowest-leather-and-tonka-eau-de-parfum-100ml-300995784001
+https://www.westside.com/products/studiowest-blue-quilted-round-makeup-pouch-301011504001
+https://www.westside.com/products/studiowest-oceanic-amber-body-wash-300941966001
+https://www.westside.com/products/studiowest-new-city-bora-bora-shower-gel-180-ml-300978089001
+https://www.westside.com/products/studiowest-new-city-mykonos-shower-gel-180-ml-300978091001
+https://www.westside.com/products/studiowest-golden-hour-eau-de-parfum-30-ml-300991613001
+https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+https://www.westside.com/products/studiowest-spf-50-sunscreen-stick-7-8-gm-300980794001
+https://www.westside.com/products/studiowest-gold-glitz-glow-highlighter-45-gm-300975633001
+https://www.westside.com/products/studiowest-velvet-kiss-slim-stick-soft-whisper-mv-02-lipstick-2-gm-301007597001
+https://www.westside.com/products/studiowest-keep-it-on-eau-de-parfum-30-ml-300991614001
+https://www.virgio.com/products/date-chic-red-solid-co-ords
+https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+https://www.westside.com/products/studiowest-girls-night-eau-de-parfum-30-ml-300991612001
+https://www.westside.com/products/studiowest-coconut-water-body-wash-300941968001
+https://www.westside.com/products/studiowest-slay-eau-de-parfum-30-ml-300991619001
+https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+https://www.westside.com/products/studiowest-candle-light-eau-de-parfum-30-ml-300991606001
+https://www.westside.com/products/studiowest-no-filter-eau-de-parfum-30-ml-300991616001
+https://www.westside.com/products/studiowest-eyebrow-and-lash-serum-8-ml-300984083001
+https://www.westside.com/products/studiowest-so-high-eau-de-parfum-30-ml-300991620001
+https://www.westside.com/products/studiowest-pink-quilted-round-makeup-pouch-301011503001
+https://www.westside.com/products/studiowest-black-mini-volumizing-mascara-6-gm-300979896001
+https://www.westside.com/products/studiowest-daydream-eau-de-parfum-30-ml-300991608001
+https://www.westside.com/products/studiowest-whipped-eau-de-parfum-30-ml-300991624001
+https://www.westside.com/products/studiowest-one-night-in-ibiza-eau-de-parfum-25-ml-300943794001
+
+==================================================
